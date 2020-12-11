@@ -1,7 +1,7 @@
 git practice
 
 這是資策會課程
-練習git
+練習gitTest1
 
 - git init
 - git add a.txt
